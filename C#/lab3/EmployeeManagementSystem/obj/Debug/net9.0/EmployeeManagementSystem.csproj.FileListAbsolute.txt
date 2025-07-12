@@ -1,0 +1,14 @@
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.exe
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.deps.json
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.runtimeconfig.json
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.dll
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.pdb
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.AssemblyInfo.cs
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.dll
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\refint\EmployeeManagementSystem.dll
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.pdb
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.genruntimeconfig.cache
+D:\My_GitHub_Repos\ITI\C#\lab3\EmployeeManagementSystem\obj\Debug\net9.0\ref\EmployeeManagementSystem.dll

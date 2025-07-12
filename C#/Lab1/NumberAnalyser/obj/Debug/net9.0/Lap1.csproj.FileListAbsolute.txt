@@ -1,0 +1,14 @@
+D:\My_GitHub_Repos\ITI\C#\Lap1\bin\Debug\net9.0\Lap1.exe
+D:\My_GitHub_Repos\ITI\C#\Lap1\bin\Debug\net9.0\Lap1.deps.json
+D:\My_GitHub_Repos\ITI\C#\Lap1\bin\Debug\net9.0\Lap1.runtimeconfig.json
+D:\My_GitHub_Repos\ITI\C#\Lap1\bin\Debug\net9.0\Lap1.dll
+D:\My_GitHub_Repos\ITI\C#\Lap1\bin\Debug\net9.0\Lap1.pdb
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\Lap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\Lap1.AssemblyInfoInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\Lap1.AssemblyInfo.cs
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\Lap1.csproj.CoreCompileInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\Lap1.dll
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\refint\Lap1.dll
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\Lap1.pdb
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\Lap1.genruntimeconfig.cache
+D:\My_GitHub_Repos\ITI\C#\Lap1\obj\Debug\net9.0\ref\Lap1.dll

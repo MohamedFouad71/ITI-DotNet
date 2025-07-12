@@ -1,0 +1,14 @@
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\bin\Debug\net9.0\outPractice.exe
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\bin\Debug\net9.0\outPractice.deps.json
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\bin\Debug\net9.0\outPractice.runtimeconfig.json
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\bin\Debug\net9.0\outPractice.dll
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\bin\Debug\net9.0\outPractice.pdb
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\outPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\outPractice.AssemblyInfoInputs.cache
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\outPractice.AssemblyInfo.cs
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\outPractice.csproj.CoreCompileInputs.cache
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\outPractice.dll
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\refint\outPractice.dll
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\outPractice.pdb
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\outPractice.genruntimeconfig.cache
+D:\My_GitHub_Repos\ITI\C#\lab3\outPractice\obj\Debug\net9.0\ref\outPractice.dll

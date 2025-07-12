@@ -1,0 +1,14 @@
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\Sorting_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\Sorting_algorithm.AssemblyInfoInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\Sorting_algorithm.AssemblyInfo.cs
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\Sorting_algorithm.csproj.CoreCompileInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\bin\Debug\net9.0\Sorting_algorithm.exe
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\bin\Debug\net9.0\Sorting_algorithm.deps.json
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\bin\Debug\net9.0\Sorting_algorithm.runtimeconfig.json
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\bin\Debug\net9.0\Sorting_algorithm.dll
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\bin\Debug\net9.0\Sorting_algorithm.pdb
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\Sorting_algorithm.dll
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\refint\Sorting_algorithm.dll
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\Sorting_algorithm.pdb
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\Sorting_algorithm.genruntimeconfig.cache
+D:\My_GitHub_Repos\ITI\C#\Task2\Sorting_algorithm\obj\Debug\net9.0\ref\Sorting_algorithm.dll

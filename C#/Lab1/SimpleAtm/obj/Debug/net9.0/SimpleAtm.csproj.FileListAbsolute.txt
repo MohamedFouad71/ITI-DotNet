@@ -1,0 +1,14 @@
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\SimpleAtm.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\SimpleAtm.AssemblyInfoInputs.cache
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\SimpleAtm.AssemblyInfo.cs
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\SimpleAtm.csproj.CoreCompileInputs.cache
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\bin\Debug\net9.0\SimpleAtm.exe
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\bin\Debug\net9.0\SimpleAtm.deps.json
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\bin\Debug\net9.0\SimpleAtm.runtimeconfig.json
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\bin\Debug\net9.0\SimpleAtm.dll
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\bin\Debug\net9.0\SimpleAtm.pdb
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\SimpleAtm.dll
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\refint\SimpleAtm.dll
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\SimpleAtm.pdb
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\SimpleAtm.genruntimeconfig.cache
+D:\My_GitHub_Repos\ITI\C#\SimpleAtm\obj\Debug\net9.0\ref\SimpleAtm.dll
