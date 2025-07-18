@@ -1,0 +1,15 @@
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\bin\Debug\net9.0\MiniStudentManagemetSystem.exe
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\bin\Debug\net9.0\MiniStudentManagemetSystem.deps.json
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\bin\Debug\net9.0\MiniStudentManagemetSystem.runtimeconfig.json
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\bin\Debug\net9.0\MiniStudentManagemetSystem.dll
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\bin\Debug\net9.0\MiniStudentManagemetSystem.pdb
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.AssemblyInfoInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.AssemblyInfo.cs
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.csproj.CoreCompileInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.sourcelink.json
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.dll
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\refint\MiniStudentManagemetSystem.dll
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.pdb
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\MiniStudentManagemetSystem.genruntimeconfig.cache
+D:\My_GitHub_Repos\ITI\C#\Lab4\MiniStudentManagemetSystem\obj\Debug\net9.0\ref\MiniStudentManagemetSystem.dll

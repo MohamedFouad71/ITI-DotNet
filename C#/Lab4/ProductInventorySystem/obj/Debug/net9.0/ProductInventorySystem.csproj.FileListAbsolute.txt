@@ -1,0 +1,15 @@
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\bin\Debug\net9.0\ProductInventorySystem.exe
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\bin\Debug\net9.0\ProductInventorySystem.deps.json
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\bin\Debug\net9.0\ProductInventorySystem.runtimeconfig.json
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\bin\Debug\net9.0\ProductInventorySystem.dll
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\bin\Debug\net9.0\ProductInventorySystem.pdb
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.AssemblyInfoInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.AssemblyInfo.cs
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.csproj.CoreCompileInputs.cache
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.sourcelink.json
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.dll
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\refint\ProductInventorySystem.dll
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.pdb
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ProductInventorySystem.genruntimeconfig.cache
+D:\My_GitHub_Repos\ITI\C#\Lab4\ProductInventorySystem\obj\Debug\net9.0\ref\ProductInventorySystem.dll
