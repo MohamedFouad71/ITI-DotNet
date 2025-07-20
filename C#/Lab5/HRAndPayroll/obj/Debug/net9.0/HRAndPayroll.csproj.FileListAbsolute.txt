@@ -1,0 +1,15 @@
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\bin\Debug\net9.0\HRAndPayroll.exe
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\bin\Debug\net9.0\HRAndPayroll.deps.json
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\bin\Debug\net9.0\HRAndPayroll.runtimeconfig.json
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\bin\Debug\net9.0\HRAndPayroll.dll
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\bin\Debug\net9.0\HRAndPayroll.pdb
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.AssemblyInfoInputs.cache
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.AssemblyInfo.cs
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.csproj.CoreCompileInputs.cache
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.sourcelink.json
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.dll
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\refint\HRAndPayroll.dll
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.pdb
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\HRAndPayroll.genruntimeconfig.cache
+D:\Technical\Repos\ITI\C#\Lab5\HRAndPayroll\obj\Debug\net9.0\ref\HRAndPayroll.dll
