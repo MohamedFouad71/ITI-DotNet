@@ -1,0 +1,15 @@
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.AssemblyInfoInputs.cache
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.AssemblyInfo.cs
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.csproj.CoreCompileInputs.cache
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.sourcelink.json
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\bin\Debug\net9.0\StudentExaminationManagementSystem.exe
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\bin\Debug\net9.0\StudentExaminationManagementSystem.deps.json
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\bin\Debug\net9.0\StudentExaminationManagementSystem.runtimeconfig.json
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\bin\Debug\net9.0\StudentExaminationManagementSystem.dll
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\bin\Debug\net9.0\StudentExaminationManagementSystem.pdb
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.dll
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\refint\StudentExaminationManagementSystem.dll
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.pdb
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\StudentExaminationManagementSystem.genruntimeconfig.cache
+D:\Technical\Repos\ITI\C#\lab6\StudentExaminationManagementSystem\obj\Debug\net9.0\ref\StudentExaminationManagementSystem.dll
