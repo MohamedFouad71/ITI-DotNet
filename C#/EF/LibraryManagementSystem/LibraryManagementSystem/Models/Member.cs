@@ -7,7 +7,8 @@ namespace LibraryManagementSystem.Models
         [Key]
         public int MemberId { get; set; }
 
-        public string Name { get; set; } = "Unspecified";
+        [StringLength(20)]
+        public string? Name { get; set; }
 
         public DateTime MembershipDate { get; set; }
 

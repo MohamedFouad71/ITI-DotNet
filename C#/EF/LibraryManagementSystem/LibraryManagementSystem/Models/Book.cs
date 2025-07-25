@@ -8,15 +8,19 @@ namespace LibraryManagementSystem.Models
         [Key]
         public int BookId { get; set; }
 
-        public string Title { get; set; } = "Unspecified";
+        [StringLength(50)]
+        [Required]
+        public string Title { get; set; }
 
-        public string? Author { get; set; } = "Unspecified";
+        [StringLength(30)]
+        public string? Author { get; set; }
 
         public int? YearPublished { get; set; }
 
         [ForeignKey(nameof(Category))]
         public int? CategoryId { get; set; }
 
+        public Category? Category { get; set; }
 
         public Book()
         {

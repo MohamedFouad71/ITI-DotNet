@@ -9,9 +9,11 @@ namespace LibraryManagementSystem.Models
         public int BorrowID { get; set; }
 
         [ForeignKey(nameof(Book))]
+        [Required]
         public int BookID { get; set; }
 
         [ForeignKey(nameof(Member))]
+        [Required]
         public int MemberID { get; set; }
 
         public DateTime BorrowDate { get; set; }

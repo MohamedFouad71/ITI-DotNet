@@ -6,7 +6,12 @@ namespace LibraryManagementSystem.Models
     {
         [Key]
         public int CategoryId { get; set; }
-        public string CategoryName { get; set; } = "Unspecified";
+
+        [StringLength(20)]
+        [Required]
+        public string CategoryName { get; set; }
+
+        public List<Book> Books { get; set; }
 
         public override string ToString()
         {
