@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technical\\Repos\\ITI\\C#\\delegate_methods\\Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{775ABCAD-4E6E-4E31-A8D3-DD55929BE337}|Sort\\Sort.csproj|d:\\technical\\repos\\iti\\c#\\delegate_methods\\sort\\sort\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775ABCAD-4E6E-4E31-A8D3-DD55929BE337}|Sort\\Sort.csproj|solutionrelative:sort\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775ABCAD-4E6E-4E31-A8D3-DD55929BE337}|Sort\\Sort.csproj|d:\\technical\\repos\\iti\\c#\\delegate_methods\\sort\\sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775ABCAD-4E6E-4E31-A8D3-DD55929BE337}|Sort\\Sort.csproj|solutionrelative:sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775ABCAD-4E6E-4E31-A8D3-DD55929BE337}|Sort\\Sort.csproj|d:\\technical\\repos\\iti\\c#\\delegate_methods\\sort\\sort\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775ABCAD-4E6E-4E31-A8D3-DD55929BE337}|Sort\\Sort.csproj|solutionrelative:sort\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Print.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\delegate_methods\\Sort\\Sort\\Print.cs",
+              "RelativeDocumentMoniker": "Sort\\Print.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\delegate_methods\\Sort\\Sort\\Print.cs",
+              "RelativeToolTip": "Sort\\Print.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:30:59.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sorter.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\delegate_methods\\Sort\\Sort\\Sorter.cs",
+              "RelativeDocumentMoniker": "Sort\\Sorter.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\delegate_methods\\Sort\\Sort\\Sorter.cs",
+              "RelativeToolTip": "Sort\\Sorter.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:20:35.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\delegate_methods\\Sort\\Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Sort\\Program.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\delegate_methods\\Sort\\Sort\\Program.cs",
+              "RelativeToolTip": "Sort\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:15:57.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

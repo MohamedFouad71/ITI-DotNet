@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\utilities\\printenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\utilities\\printenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\utilities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\utilities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintEnumerable.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Utilities\\PrintEnumerable.cs",
+              "RelativeDocumentMoniker": "LinqPractice\\Utilities\\PrintEnumerable.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Utilities\\PrintEnumerable.cs",
+              "RelativeToolTip": "LinqPractice\\Utilities\\PrintEnumerable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:32:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Utilities\\Student.cs",
+              "RelativeDocumentMoniker": "LinqPractice\\Utilities\\Student.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Utilities\\Student.cs",
+              "RelativeToolTip": "LinqPractice\\Utilities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:12:16.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Program.cs",
+              "RelativeDocumentMoniker": "LinqPractice\\Program.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Program.cs",
+              "RelativeToolTip": "LinqPractice\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:11:28.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
