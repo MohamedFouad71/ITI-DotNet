@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\utilities\\printenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\utilities\\printenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\utilities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\utilities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|d:\\technical\\repos\\iti\\c#\\linq\\linqpractice\\linqpractice\\utilities\\printenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7FB59F-AEAA-47A8-AB4A-80AE78C7C041}|LinqPractice\\LinqPractice.csproj|solutionrelative:linqpractice\\utilities\\printenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PrintEnumerable.cs",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Utilities\\PrintEnumerable.cs",
               "RelativeDocumentMoniker": "LinqPractice\\Utilities\\PrintEnumerable.cs",
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "LinqPractice\\Utilities\\Student.cs",
               "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Utilities\\Student.cs",
               "RelativeToolTip": "LinqPractice\\Utilities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T09:12:16.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Program.cs",
               "RelativeDocumentMoniker": "LinqPractice\\Program.cs",
               "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\linq\\LinqPractice\\LinqPractice\\Program.cs",
               "RelativeToolTip": "LinqPractice\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwD8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T09:11:28.711Z",
               "EditorCaption": ""

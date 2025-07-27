@@ -14,7 +14,7 @@ namespace LinqPractice.Utilities
         public string Department { get; set; }
         public double GPA { get; set; }
 
-        // Optional: Constructor to easily create Student objects
+
         public Student(int id, string name, int age, string department, double gpa)
         {
             Id = id;
@@ -24,7 +24,7 @@ namespace LinqPractice.Utilities
             GPA = gpa;
         }
 
-        // Optional: Override ToString() for easy printing
+
         public override string ToString()
         {
             return $"ID: {Id}, Name: {Name}, Age: {Age}, Department: {Department}, GPA: {GPA}";
