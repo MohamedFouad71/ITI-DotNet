@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|d:\\technical\\repos\\iti\\c#\\ef\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|d:\\technical\\repos\\iti\\c#\\ef\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|d:\\technical\\repos\\iti\\c#\\ef\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|d:\\technical\\repos\\iti\\c#\\ef\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|d:\\technical\\repos\\iti\\c#\\ef\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|d:\\technical\\repos\\iti\\c#\\ef\\librarymanagementsystemconsole\\librarymanagementsystemconsole\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A119FB-656B-49BB-9D96-643590E4620F}|LibraryManagementSystemConsole\\LibraryManagementSystemConsole.csproj|solutionrelative:librarymanagementsystemconsole\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Models\\Category.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Category.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:12:04.383Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Models\\Book.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Models\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:11:59.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Data\\LibraryContext.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:12:37.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Models\\Member.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Models\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:12:12.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Models\\Borrow.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Models\\Borrow.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Models\\Borrow.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:11:44.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsole\\Program.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\C#\\EF\\LibraryManagementSystemConsole\\LibraryManagementSystemConsole\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsole\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:10:32.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

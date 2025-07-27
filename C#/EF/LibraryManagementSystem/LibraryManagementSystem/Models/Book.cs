@@ -10,35 +10,26 @@ namespace LibraryManagementSystem.Models
 
         [StringLength(50)]
         [Required]
-        public string Title { get; set; }
+        public string BookTitle { get; set; }
 
         [StringLength(30)]
-        public string? Author { get; set; }
+        public string? BookAuthor { get; set; }
 
         public int? YearPublished { get; set; }
 
-        [ForeignKey(nameof(Category))]
         public int? CategoryId { get; set; }
 
         public Category? Category { get; set; }
 
-        public Book()
-        {
-            //
-        }
+        /// <summary>
+        /// A list That Contains The Members That Have This Book
+        /// </summary>
+        public List<Member> Members { get; set; } = new();
 
-        public Book(int bookId, string title, string author, int yearPublished, int categoryId)
-        {
-            BookId = bookId;
-            Title = title;
-            Author = author;
-            YearPublished = yearPublished;
-            CategoryId = categoryId;
-        }
 
         public override string ToString()
         {
-            return $"Book(BookId={BookId}, Title='{Title}', Author='{Author}', YearPublished={YearPublished}, CategoryId={CategoryId})";
+            return $"Book(BookId={BookId}, Title='{BookTitle}', Author='{BookAuthor}', YearPublished={YearPublished}, CategoryId={CategoryId})";
         }
 
     }

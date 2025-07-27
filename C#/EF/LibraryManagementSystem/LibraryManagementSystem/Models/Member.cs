@@ -8,29 +8,21 @@ namespace LibraryManagementSystem.Models
         public int MemberId { get; set; }
 
         [StringLength(20)]
-        public string? Name { get; set; }
+        public string? MemberName { get; set; }
 
         public DateTime MembershipDate { get; set; }
 
+        /// <summary>
+        /// A list of the books owned by the member
+        /// </summary>
+        public List<Book> Books { get; set; } = new();
 
-
-        public Member()
-        {
-            //
-        }
-
-        public Member(int memberId, string name, DateTime membershipDate)
-        {
-            MemberId = memberId;
-            Name = name;
-            MembershipDate = membershipDate;
-        }
 
 
 
         public override string ToString()
         {
-            return $"Member(MemberId={MemberId}, Name='{Name}', MembershipDate={MembershipDate.ToShortDateString()})";
+            return $"Member(MemberId={MemberId}, Name='{MemberName}', MembershipDate={MembershipDate.ToShortDateString()})";
         }
     }
 }

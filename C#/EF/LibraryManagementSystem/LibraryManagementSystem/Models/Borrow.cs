@@ -1,20 +1,21 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LibraryManagementSystem.Models
 {
     public class Borrow
     {
         [Key]
-        public int BorrowID { get; set; }
+        public int BorrowId { get; set; }
 
-        [ForeignKey(nameof(Book))]
         [Required]
-        public int BookID { get; set; }
+        public int BookId { get; set; }
 
-        [ForeignKey(nameof(Member))]
         [Required]
-        public int MemberID { get; set; }
+        public int MemberId { get; set; }
+
+        public Book Book { get; set; } 
+
+        public Member Member { get; set; }
 
         public DateTime BorrowDate { get; set; }
 
@@ -24,7 +25,7 @@ namespace LibraryManagementSystem.Models
         public override string ToString()
         {
             string returnDateString = ReturnDate.HasValue ? ReturnDate.Value.ToShortDateString() : "Not Returned";
-            return $"Borrow(BorrowID={BorrowID}, BookID={BookID}, MemberID={MemberID}, BorrowDate={BorrowDate.ToShortDateString()}, ReturnDate={returnDateString})";
+            return $"Borrow(BorrowID={BorrowId}, BookID={BookId}, MemberID={MemberId}, BorrowDate={BorrowDate.ToShortDateString()}, ReturnDate={returnDateString})";
         }
 
 

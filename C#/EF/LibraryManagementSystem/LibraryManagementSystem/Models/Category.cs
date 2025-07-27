@@ -11,11 +11,11 @@ namespace LibraryManagementSystem.Models
         [Required]
         public string CategoryName { get; set; }
 
-        public List<Book> Books { get; set; }
+        public List<Book> Books { get; set; } = new();
 
         public override string ToString()
         {
-            return $"ID={CategoryId}, Category={CategoryName}"
+            return $"ID={CategoryId}, Category={CategoryName}";
         }
     }
 }
