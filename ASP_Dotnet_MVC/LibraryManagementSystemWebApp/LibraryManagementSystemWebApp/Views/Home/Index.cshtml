@@ -1,0 +1,53 @@
+﻿@* @model List<Book>
+
+<h2>📚 Book List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Publication Date</th>
+            <th>Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.BookTitle</td>
+                <td>@(book.Author ?? "")</td>
+                <td>@book.PublicationDate</td>
+                <td>@(book.IsAvailable ? "Available" : "Not Available")</td>
+            </tr>
+        }
+    </tbody>
+</table> *@
+
+@model List<Book>
+
+<h2>📚 Book List</h2>
+
+<a href="@Url.Action("Create", "Book")" class="btn btn-primary mb-3">➕ Create New Book</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Publication Date</th>
+            <th>Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.BookTitle</td>
+                <td>@(book.Author ?? "")</td>
+                <td>@book.PublicationDate</td>
+                <td>@(book.IsAvailable ? "Available" : "Not Available")</td>
+            </tr>
+        }
+    </tbody>
+</table>
