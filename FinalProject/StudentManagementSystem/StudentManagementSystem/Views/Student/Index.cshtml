@@ -1,0 +1,27 @@
+﻿@model List<Student>
+
+<h2 class="text-center my-4">Students</h2>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email Address</th>
+            <th scope="col">Date of Birth</th>
+            <th scope="col">Department<th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Email</td>
+                <td>@student.DateOfBirth.ToString("yyyy-MM-dd")</td>
+                <td>@student.Department.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,27 @@
+﻿@model List<Instructor>
+
+<h2 class="text-center my-4">Instructors</h2>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Hire Date</th>
+            <th scope="col">Office Location</th>#
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var instructor in Model)
+        {
+            <tr>
+                <td>@instructor.Id</td>
+                <td>@instructor.Name</td>
+                @* <td>@instructor.HireDate.ToString("yyyy-MM-dd")</td> *@
+                <td>@instructor.HireDate.ToString("yyyy-MM-dd")</td>
+                <td>@instructor.OfficeAssignment.Location</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

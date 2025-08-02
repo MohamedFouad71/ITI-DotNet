@@ -10,7 +10,7 @@ namespace StudentManagementSystem.Models
         public string Name { get; set; }
 
         [DataType(DataType.Date)]
-        public DateTime? HireDate { get; set; }
+        public DateTime HireDate { get; set; }
 
         //Navigation Properties
         public OfficeAssignment OfficeAssignment { get; set; }

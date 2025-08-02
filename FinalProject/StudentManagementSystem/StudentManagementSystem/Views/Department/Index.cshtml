@@ -1,0 +1,21 @@
+﻿@model List<Department>
+
+<h2 class="text-center my-4">Departments</h2>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.Id</td>
+                <td>@department.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

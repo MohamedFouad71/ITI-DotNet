@@ -27,7 +27,6 @@ namespace StudentManagementSystem.Data
 
         }
 
-
         // Configurations
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
