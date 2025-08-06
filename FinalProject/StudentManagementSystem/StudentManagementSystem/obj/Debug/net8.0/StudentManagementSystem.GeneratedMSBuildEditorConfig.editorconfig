@@ -32,8 +32,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Course/CourseAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENvdXJzZUFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Department/DepartmentAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50QWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Department/Index.cshtml]
@@ -52,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Instructor/InstructorAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbnN0cnVjdG9yQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,6 +74,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Student/StudentAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50QWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/_ViewImports.cshtml]

@@ -13,7 +13,6 @@ namespace StudentManagementSystem.Models
         public string Email { get; set; }
 
         [DataType(DataType.Date),Required] // required is Not neccecary, but to keep code cleaner, DataType gives hints to UI
-        [Display(Name = "Date of Birth")]
         public DateTime DateOfBirth { get; set; }
 
         [Required]

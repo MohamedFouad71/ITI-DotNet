@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\views\\course\\courseadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\course\\courseadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\views\\viewmodels\\courseaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\viewmodels\\courseaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\technical\\repos\\iti\\finalproject\\studentmanagementsystem\\studentmanagementsystem\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F991061-808E-4DC9-8A13-B3DEBFC2F635}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-02T16:07:06.719Z",
               "IsPinned": true,
@@ -40,28 +56,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InstructorController.cs",
-              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\InstructorController.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\InstructorController.cs",
-              "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\InstructorController.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Controllers\\InstructorController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T20:42:57.87Z",
+              "WhenOpened": "2025-08-06T12:22:15.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Instructor\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Instructor\\Index.cshtml",
               "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Instructor\\Index.cshtml",
               "RelativeToolTip": "StudentManagementSystem\\Views\\Instructor\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T20:42:09.8Z",
+              "WhenOpened": "2025-08-06T12:18:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T12:06:52.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseAddViewModel.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\ViewModels\\CourseAddViewModel.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\ViewModels\\CourseAddViewModel.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\ViewModels\\CourseAddViewModel.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\ViewModels\\CourseAddViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:43:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseAdd.cshtml",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Course\\CourseAdd.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Course\\CourseAdd.cshtml",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Views\\Course\\CourseAdd.cshtml",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\Course\\CourseAdd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T11:37:42.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Technical\\Repos\\ITI\\FinalProject\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:27:49.224Z",
               "EditorCaption": ""
             }
           ]

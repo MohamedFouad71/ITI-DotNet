@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|solutionrelative:librarymanagementsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|solutionrelative:librarymanagementsystemmvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|solutionrelative:librarymanagementsystemmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|solutionrelative:librarymanagementsystemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|solutionrelative:librarymanagementsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|solutionrelative:librarymanagementsystemmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|solutionrelative:librarymanagementsystemmvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57BDA3D2-1CE6-4794-9FE0-FD5C76738B9B}|LibraryManagementSystemMVC\\LibraryManagementSystemMVC.csproj|d:\\technical\\repos\\iti\\asp_dotnet_mvc\\librarymanagementsystemmvc\\librarymanagementsystemmvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,36 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemMVC\\Program.cs",
               "ToolTip": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Program.cs",
               "RelativeToolTip": "LibraryManagementSystemMVC\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T19:35:23.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystemMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LibraryManagementSystemMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:18:00.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "LibraryManagementSystemMVC\\Views\\Books\\Create.cshtml",
@@ -83,11 +67,12 @@
               "RelativeToolTip": "LibraryManagementSystemMVC\\Views\\Books\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T19:25:43.25Z"
+              "WhenOpened": "2025-07-30T19:25:43.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Views\\Books\\Details.cshtml",
               "RelativeDocumentMoniker": "LibraryManagementSystemMVC\\Views\\Books\\Details.cshtml",
@@ -124,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "20250730175638_InitialCreate.cs",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Migrations\\20250730175638_InitialCreate.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemMVC\\Migrations\\20250730175638_InitialCreate.cs",
@@ -136,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "LibraryContext.cs",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Data\\LibraryContext.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemMVC\\Data\\LibraryContext.cs",
@@ -148,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Technical\\Repos\\ITI\\ASP_Dotnet_MVC\\LibraryManagementSystemMVC\\LibraryManagementSystemMVC\\Models\\Book.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystemMVC\\Models\\Book.cs",

@@ -2,13 +2,20 @@
 
 <h2 class="text-center my-4">Instructors</h2>
 
+<div class="d-flex justify-content-end mb-3">
+    <a asp-controller="Instructor" asp-action="InstructorAdd" class="btn btn-primary">
+        <i class="bi bi-plus-circle"></i> New Instructor
+    </a>
+</div>
+
 <table class="table table-bordered table-striped table-hover">
     <thead class="table-dark">
         <tr>
             <th scope="col">ID</th>
             <th scope="col">Name</th>
             <th scope="col">Hire Date</th>
-            <th scope="col">Office Location</th>#
+            <th scope="col">Office Location</th>
+            <th scope="col">Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -17,10 +24,18 @@
             <tr>
                 <td>@instructor.Id</td>
                 <td>@instructor.Name</td>
-                @* <td>@instructor.HireDate.ToString("yyyy-MM-dd")</td> *@
                 <td>@instructor.HireDate.ToString("yyyy-MM-dd")</td>
                 <td>@instructor.OfficeAssignment.Location</td>
-
+                <td>
+                    <form asp-action="InstructorDelete" method="post" class="d-inline">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@instructor.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm"
+                                onclick="return confirm('Are you sure you want to delete this instructor?');">
+                            <i class="bi bi-trash"></i> Delete
+                        </button>
+                    </form>
+                </td>
             </tr>
         }
     </tbody>
