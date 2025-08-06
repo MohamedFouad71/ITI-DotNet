@@ -1,10 +1,11 @@
-﻿using StudentManagementSystem.Models;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace StudentManagementSystem.Views.ViewModels
 {
-    public class InstructorAddViewModel
+    public class InstructorViewModel
     {
+        public int Id { get; set; }
+
         [Required, StringLength(100, ErrorMessage = "100 Characters Maximum")]
         [Display(Name = "Instructor Name", Prompt = "ex : Ali Mohamed Ahmed")]
         public string InstructorName { get; set; }

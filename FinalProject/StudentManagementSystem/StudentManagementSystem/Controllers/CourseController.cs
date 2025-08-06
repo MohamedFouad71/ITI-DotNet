@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using StudentManagementSystem.Data;
 using StudentManagementSystem.Models;
 using StudentManagementSystem.Views.ViewModels;
@@ -17,7 +19,7 @@ namespace StudentManagementSystem.Controllers
         //######################## Home ###########################
         public IActionResult Index()
         {
-            var courses = _context.Courses.ToList();
+            var courses = _context.Courses.Include(c => c.Department).ToList();
             return View(courses);
         }
         //#########################################################
@@ -25,9 +27,13 @@ namespace StudentManagementSystem.Controllers
 
 
         //####################### Add Course ######################
-        public IActionResult CourseAdd()
+        public async Task<IActionResult> CourseAdd()
         {
-            CourseAddViewModel viewModel = new();
+            CourseAddViewModel viewModel = new()
+            {
+                Departments =await _context.Departments.Select(d => new SelectListItem() { Text = d.Name, Value = d.Id.ToString() }).ToListAsync()
+            };
+
             return View(viewModel);
         }
 
@@ -74,5 +80,36 @@ namespace StudentManagementSystem.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        //#########################################################
+
+
+
+        //################## Edit ###############################
+        public async Task<IActionResult> Modify(int id)
+        {
+            var course = await _context.Courses.Include(c => c.Department).FirstAsync(c => c.Id == id);
+
+            if (course == null)
+                return NotFound();
+
+            ViewBag.Departments = await _context.Departments.ToListAsync();
+            ViewBag.Credits = new List<int>() { 0, 1, 2, 3, 4, 5, 6 };
+
+            return View(course);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Modify(Course course)
+        {
+            if (!ModelState.IsValid)
+                return RedirectToAction(nameof(Modify));
+
+            _context.Courses.Update(course);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+        //#######################################################
     }
 }

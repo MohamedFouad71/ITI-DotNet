@@ -18,7 +18,9 @@
             <th scope="col">Course ID</th>
             <th scope="col">Course Name</th>
             <th scope="col">Credit Hours</th>
-            <th scope="col">Actions</th>
+            <th scope="col">Department</th>
+            <th scope="col">Delete</th>
+            <th scope="col">Modify</th>
         </tr>
     </thead>
     <tbody>
@@ -28,6 +30,7 @@
                 <td>@course.Id</td>
                 <td>@course.Name</td>
                 <td>@course.Credits</td>
+                <td>@course.Department.Name</td>
                 <td>
                     <form asp-action="CourseDelete" method="post" class="d-inline">
                         @Html.AntiForgeryToken()
@@ -37,6 +40,9 @@
                             <i class="bi bi-trash"></i> Delete
                         </button>
                     </form>
+                </td>
+                <td>
+                    <a asp-action="Modify" asp-route-id="@course.Id" class="btn btn-warning btn-sm">Modify</a>
                 </td>
             </tr>
         }

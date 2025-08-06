@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using StudentManagementSystem.Models;
-using System.Runtime.Intrinsics.Arm;
 
 namespace StudentManagementSystem.Data
 {

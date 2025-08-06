@@ -1,10 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
 using StudentManagementSystem.Data;
 using StudentManagementSystem.Models;
 using StudentManagementSystem.Views.ViewModels;
-using System.Security.Cryptography;
 
 namespace StudentManagementSystem.Controllers
 {
@@ -34,7 +33,7 @@ namespace StudentManagementSystem.Controllers
         }
 
 
-        public async Task<IActionResult> InstructorAdd(InstructorAddViewModel viewModel)
+        public async Task<IActionResult> InstructorAdd(InstructorViewModel viewModel)
         {
             if (!ModelState.IsValid)
                 return View(viewModel);
@@ -76,8 +75,6 @@ namespace StudentManagementSystem.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> InstructorDelete(int id)
         {
-            if (id == 0) return BadRequest("id not found");
-
             var instructor = await _context.Instructors.FindAsync(id);
             _context.Instructors.Remove(instructor);
             await _context.SaveChangesAsync();
@@ -85,6 +82,68 @@ namespace StudentManagementSystem.Controllers
             return RedirectToAction(nameof(Index));
         }
         //###############################################################################
+
+
+        //########################### Modify ############################################
+        public async Task<IActionResult> Modify(int id)
+        {
+            var instructor = await _context.Instructors.Include(i => i.OfficeAssignment).FirstAsync(i => i.Id == id);
+
+            var viewModel = new InstructorViewModel()
+            {
+                Id = instructor.Id,
+                InstructorName = instructor.Name,
+                InstructorHireDate = instructor.HireDate,
+                OfficeLocation = instructor.OfficeAssignment?.Location
+            };
+
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Modify(InstructorViewModel viewModel)
+        {
+            if (!ModelState.IsValid)
+                return View(viewModel);
+
+
+
+            var instructor = await _context.Instructors.Include(i => i.OfficeAssignment).FirstAsync(i => i.Id == viewModel.Id);
+            instructor.Name = viewModel.InstructorName;
+            instructor.HireDate = viewModel.InstructorHireDate;
+
+
+
+            if (!viewModel.OfficeLocation.IsNullOrEmpty())
+            {
+                if (instructor.OfficeAssignment == null)
+                {
+                    OfficeAssignment officeAssignment = new()
+                    {
+                        Location = viewModel.OfficeLocation,
+                        InstructorId = viewModel.Id
+                    };
+
+
+                    await _context.OfficeAssignments.AddAsync(officeAssignment);
+                    await _context.SaveChangesAsync();
+                }
+                else
+                    instructor.OfficeAssignment.Location = viewModel.OfficeLocation;
+            }
+
+            _context.Instructors.Update(instructor);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+        //###############################################################################
+
+
+
+
 
     }
 }

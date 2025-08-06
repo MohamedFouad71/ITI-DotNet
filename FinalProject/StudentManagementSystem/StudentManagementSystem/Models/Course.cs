@@ -10,7 +10,7 @@ namespace StudentManagementSystem.Models
         [Display(Name="Course Name",Prompt ="ex : Data Structures")]
         public string Name { get; set; }
 
-        [Range(0,6),Required]
+        [Range(0,6, ErrorMessage = "Maximum 6 hours"),Required]
         [Display(Name = "Credit Hours", Prompt = "A number from 1 to 6")]
         public short Credits { get; set; }
 

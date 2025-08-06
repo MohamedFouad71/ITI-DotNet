@@ -75,5 +75,29 @@ namespace StudentManagementSystem.Controllers
         }
 
         //########################################################################################
+
+
+        
+        //####################################### Modify #########################################
+        public async Task<IActionResult> Modify(int id)
+        {
+            var department = await _context.Departments.FindAsync(id);
+            return View(department);
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Modify(Department department)
+        {
+            if (!ModelState.IsValid)
+                return View(department);
+
+            _context.Departments.Update(department);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+            //#####################################################################################
+        }
     }
 }

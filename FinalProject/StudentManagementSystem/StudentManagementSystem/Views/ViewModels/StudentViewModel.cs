@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
-using StudentManagementSystem.Models;
 using System.ComponentModel.DataAnnotations;
 
 namespace StudentManagementSystem.Views.ViewModels
 {
-    public class StudentAddViewModel
+    public class StudentViewModel
     {
+        public int Id { get; set; }
+
         [Required, StringLength(100, ErrorMessage = "100 Characters Maximum")]
         public string Name { get; set; }
 
@@ -17,6 +18,7 @@ namespace StudentManagementSystem.Views.ViewModels
         public DateTime DateOfBirth { get; set; }
 
         [Required]
+        [Display(Name = "Department")]
         public int DepartmentId { get; set; }
 
         public List<SelectListItem>? Departments { get; set; }

@@ -11,6 +11,11 @@ namespace StudentManagementSystem.Views.ViewModels
 
         public short Credits { get; set; }
 
+        [Display(Name = "Department")]
+        public int DepartmentId { get; set; }
+
+        public List<SelectListItem> Departments { get; set; }
+
         public readonly List<SelectListItem> CreditsList = new()
         {
             new() {Text = "0", Value = "0"},

@@ -16,7 +16,9 @@
             <th scope="col">Email Address</th>
             <th scope="col">Date of Birth</th>
             <th scope="col">Department</th>
-            <th scope="col">Actions</th>
+            <th scope="col">Delete</th>
+            <th scope="col">Modify</th>
+
         </tr>
     </thead>
     <tbody>
@@ -37,6 +39,9 @@
                             <i class="bi bi-trash"></i> Delete
                         </button>
                     </form>
+                </td>
+                <td>
+                    <a asp-action="Modify" asp-route-id="@student.Id" class="btn btn-warning btn-sm">Modify</a>
                 </td>
             </tr>
         }

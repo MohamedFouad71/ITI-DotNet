@@ -15,7 +15,8 @@
             <th scope="col">Name</th>
             <th scope="col">Hire Date</th>
             <th scope="col">Office Location</th>
-            <th scope="col">Actions</th>
+            <th scope="col">Delete</th>
+            <th scope="col">Modify</th>
         </tr>
     </thead>
     <tbody>
@@ -36,6 +37,10 @@
                         </button>
                     </form>
                 </td>
+                <td>
+                    <a asp-action="Modify" asp-route-id="@instructor.Id" class="btn btn-warning btn-sm">Modify</a>
+                </td>
+
             </tr>
         }
     </tbody>
