@@ -8,17 +8,17 @@ namespace StudentManagementSystem.Views.ViewModels
         public int Id { get; set; }
 
         [Required, StringLength(100, ErrorMessage = "100 Characters Maximum")]
+        [Display(Prompt = "ex : Mohamed Fouad Rashed")]
         public string Name { get; set; }
 
         [EmailAddress, Required]
+        [Display(Prompt = "ex : MohamedFouad12@gmail.com")]
         public string Email { get; set; }
 
         [DataType(DataType.Date), Required]
-        [Display(Name = "Date of Birth")]
         public DateTime DateOfBirth { get; set; }
 
         [Required]
-        [Display(Name = "Department")]
         public int DepartmentId { get; set; }
 
         public List<SelectListItem>? Departments { get; set; }

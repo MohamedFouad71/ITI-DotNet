@@ -25,7 +25,7 @@ namespace StudentManagementSystem.Controllers
 
 
         //#################################### Department Add #####################################
-        [HttpGet]
+        [HttpGet("DepartmentAdd")]
         public IActionResult DepartmentAdd()
         {
             return View();

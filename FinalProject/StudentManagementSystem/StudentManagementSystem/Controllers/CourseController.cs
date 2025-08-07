@@ -27,6 +27,7 @@ namespace StudentManagementSystem.Controllers
 
 
         //####################### Add Course ######################
+        [HttpGet("CourseAdd")]
         public async Task<IActionResult> CourseAdd()
         {
             CourseAddViewModel viewModel = new()

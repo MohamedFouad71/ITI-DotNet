@@ -27,7 +27,7 @@ namespace StudentManagementSystem.Controllers
 
 
         //################# Create Operation #######################
-        [HttpGet]
+        [HttpGet("StudentAdd")]
         public IActionResult StudentAdd()
         {
             var departments = _context.Departments.Select(d => new SelectListItem() { Text = d.Name, Value = d.Id.ToString() }).ToList();
@@ -88,7 +88,7 @@ namespace StudentManagementSystem.Controllers
         //##########################################################
 
 
-        
+
         //##########################################################
         public async Task<IActionResult> Modify(int id)
         {
@@ -132,5 +132,15 @@ namespace StudentManagementSystem.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+        //#################################################################
+        //[HttpGet("Student/Attendence/{Id}")]
+        //public async Task<IActionResult> DisplayAttendance(int id)
+        //{
+        //    var attendence = await _context.Attendances.Include(a => a.Course).Include(a => a.Student).Select(a => a.StudentId == id).ToListAsync();
+
+        //    return View(attendence);
+        //}
+
+
     }
 }

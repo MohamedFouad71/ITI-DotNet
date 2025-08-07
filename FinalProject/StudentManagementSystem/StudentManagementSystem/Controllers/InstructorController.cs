@@ -26,7 +26,7 @@ namespace StudentManagementSystem.Controllers
 
 
         //####################################### Instructor Add ############################
-        [HttpGet]
+        [HttpGet("InstructorAdd")]
         public IActionResult InstructorAdd()
         {
             return View();
