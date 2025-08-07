@@ -1,17 +1,13 @@
-﻿@model Student
+﻿@model Course
 
 <h3>Attendance for @Model.Name</h3>
 
-<a asp-controller="Attendance" asp-action="Add" asp-route-studentId="@Model.Id" class="btn btn-primary mb-3">
-    Add Attendance
-</a>
-
-@if (Model?.Attendances?.Any() == true)
+@if (Model.Attendances != null && Model.Attendances.Any())
 {
     <table class="table table-striped">
         <thead>
             <tr>
-                <th>Course</th>
+                <th>Student Name</th>
                 <th>Date</th>
                 <th>Status</th>
             </tr>
@@ -20,9 +16,9 @@
             @foreach (var record in Model.Attendances)
             {
                 <tr>
-                    <td>@record.Course.Name</td>
+                    <td>@record.Student.Name</td>
                     <td>@record.Date.ToString("yyyy-MM-dd")</td>
-                    <td>@(record.IsPresent ? "Present" : "Absent" )</td>
+                    <td>@(record.IsPresent ? "Present" : "Absent")</td>
                 </tr>
             }
         </tbody>

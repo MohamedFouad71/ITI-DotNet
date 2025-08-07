@@ -13,8 +13,8 @@ public class AttendanceViewModel
     public DateTime Date { get; set; }
 
     [Required]
-    public bool? IsPresent { get; set; }
+    public bool IsPresent { get; set; }
 
 
-    public List<SelectListItem> Courses { get; set; }
+    public List<SelectListItem>? Courses { get; set; }
 }

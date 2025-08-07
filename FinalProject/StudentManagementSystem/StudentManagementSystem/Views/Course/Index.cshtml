@@ -21,6 +21,7 @@
             <th scope="col">Department</th>
             <th scope="col">Delete</th>
             <th scope="col">Modify</th>
+            <th scope="col">Attendance</th>
         </tr>
     </thead>
     <tbody>
@@ -43,6 +44,11 @@
                 </td>
                 <td>
                     <a asp-action="Modify" asp-route-id="@course.Id" class="btn btn-warning btn-sm">Modify</a>
+                </td>
+                <td>
+                    <a asp-controller="Attendance" asp-action="CourseAttendance" asp-route-id="@course.Id" class="btn btn-sm btn-info">
+                        Attendance
+                    </a>
                 </td>
             </tr>
         }

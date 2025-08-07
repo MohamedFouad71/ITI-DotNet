@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Attendance/CourseAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxDb3Vyc2VBdHRlbmRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Technical/Repos/ITI/FinalProject/StudentManagementSystem/StudentManagementSystem/Views/Attendance/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

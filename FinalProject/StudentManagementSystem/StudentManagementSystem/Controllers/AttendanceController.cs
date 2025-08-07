@@ -21,6 +21,9 @@ namespace StudentManagementSystem.Controllers
             return View(attendance);
         }
 
+
+        //################################ Student Attendence #############################
+        [HttpGet("StudentAttendence")]
         public async Task<IActionResult> StudentAttendance(int id)
         {
             var student = await _context.Students
@@ -30,8 +33,29 @@ namespace StudentManagementSystem.Controllers
 
             return View(student);
         }
+        // ###############################################################################
 
-        // GET: Attendance/Add
+
+
+        // ################################ Course Attendence ############################
+        public async Task<IActionResult> CourseAttendance(int id)
+        {
+            var course = await _context.Courses
+                .Include(c => c.Attendances)
+                .ThenInclude(a => a.Student)
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+            if (course == null || course.Attendances == null)
+                return NotFound("No Records Found");
+
+            return View(course);
+        }
+        //################################################################################
+
+
+
+        // ################################# Add #########################################
+        [HttpGet]
         public IActionResult Add(int studentId)
         {
             var courses = _context.Courses.ToList();
@@ -69,7 +93,7 @@ namespace StudentManagementSystem.Controllers
                 StudentId = viewModel.StudentId,
                 CourseId = viewModel.CourseId,
                 Date = viewModel.Date,
-                IsPresent = viewModel.IsPresent ?? false
+                IsPresent = viewModel.IsPresent
             };
 
             _context.Attendances.Add(attendance);
@@ -77,6 +101,10 @@ namespace StudentManagementSystem.Controllers
 
             return RedirectToAction("StudentAttendance", new { id = viewModel.StudentId });
         }
+        //###########################################################################
 
+
+
+        //####################################
     }
 }
